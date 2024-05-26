@@ -1,0 +1,76 @@
+{
+  "santos": [
+    {
+      "id": 1,
+      "nombre": "Seiya",
+      "constelacion": "Pegaso"
+    },
+    {
+      "nombre": "Shiryu",
+      "constelacion": "Dragon",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Hyoga",
+      "constelacion": "Cisne"
+    },
+    {
+      "id": 4,
+      "nombre": "Shun",
+      "constelacion": "Andromeda"
+    },
+    {
+      "id": 5,
+      "nombre": "Ikki",
+      "constelacion": "Fenix"
+    },
+    {
+      "nombre": "Cesar",
+      "constelacion": "Leo",
+      "id": 6
+    },
+    {
+      "nombre": "Diana",
+      "constelacion": "Geminis",
+      "id": 7
+    },
+    {
+      "nombre": "Tilin",
+      "constelacion": "EsoTilin",
+      "id": 8
+    },
+    {
+      "nombre": "Juan",
+      "constelacion": "Pegaso",
+      "id": 9
+    }
+  ],
+  "dioses": [
+    {
+      "id": 1,
+      "nombre": "Athena",
+      "de": "Tierra"
+    },
+    {
+      "id": 2,
+      "nombre": "Poseidon",
+      "de": "Mar"
+    },
+    {
+      "id": 3,
+      "nombre": "Hades",
+      "de": "Inframundo"
+    },
+    {
+      "id": 4,
+      "nombre": "Zeus",
+      "de": "Cielo"
+    },
+    {
+      "id": 5,
+      "nombre": "Ares",
+      "de": "Guerra"
+    }
+  ]
+}

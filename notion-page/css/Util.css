@@ -1,0 +1,15 @@
+:root {
+  --black: #121212;
+  --white: #fefefe;
+  --cyan: #0a85d1;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url(../Inter/static/Inter-Bold.ttf);
+}
+
+@font-face {
+  font-family: "InterThin";
+  src: url(../Inter/static/Inter-Light.ttf);
+}
